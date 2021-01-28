@@ -11,6 +11,5 @@ namespace BibLibrary.Models
         public static List<Lid> Leden = new List<Lid>();
         public static List<Item> ItemsInCollectie = new List<Item>();
         public static List<Item> AfgevoerdeItems = new List<Item>();
-
     }
 }

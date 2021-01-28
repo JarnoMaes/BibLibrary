@@ -50,10 +50,7 @@ namespace ConsoleLibrary
             Console.WriteLine(m1.UitleenHistoriek);
             Console.WriteLine(m1.ItemsUitgeleend);
             Console.WriteLine(m1.Reservatie);
-            m1.PromoveerLidNaarMedewerker(l1);
-            
-
-            /// Txt files heb ik nog wat meer uitleg bij nodig.
+            m1.PromoveerLidNaarMedewerker(l1); 
         }
     }
 }
